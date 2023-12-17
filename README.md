@@ -1,8 +1,5 @@
-# React + Vite
+# Disney+ Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Build a Disney+ Clone using Reactjs and Vite with the help of Tailwind CSS and TMDB API
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/HarshKumar-13/Disney-Clone/assets/95762948/8c36288a-b019-42a8-a53e-6bc7706b6fa4)
